@@ -1,0 +1,15 @@
+C:\Users\Modern Computer\source\repos\ITI.AdvancedC#.Presentation\Manegers\bin\Debug\net8.0\Manegers.deps.json
+C:\Users\Modern Computer\source\repos\ITI.AdvancedC#.Presentation\Manegers\bin\Debug\net8.0\Manegers.dll
+C:\Users\Modern Computer\source\repos\ITI.AdvancedC#.Presentation\Manegers\bin\Debug\net8.0\Manegers.pdb
+C:\Users\Modern Computer\source\repos\ITI.AdvancedC#.Presentation\Manegers\bin\Debug\net8.0\Models.dll
+C:\Users\Modern Computer\source\repos\ITI.AdvancedC#.Presentation\Manegers\bin\Debug\net8.0\Models.pdb
+C:\Users\Modern Computer\source\repos\ITI.AdvancedC#.Presentation\Manegers\obj\Debug\net8.0\Manegers.csproj.AssemblyReference.cache
+C:\Users\Modern Computer\source\repos\ITI.AdvancedC#.Presentation\Manegers\obj\Debug\net8.0\Manegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modern Computer\source\repos\ITI.AdvancedC#.Presentation\Manegers\obj\Debug\net8.0\Manegers.AssemblyInfoInputs.cache
+C:\Users\Modern Computer\source\repos\ITI.AdvancedC#.Presentation\Manegers\obj\Debug\net8.0\Manegers.AssemblyInfo.cs
+C:\Users\Modern Computer\source\repos\ITI.AdvancedC#.Presentation\Manegers\obj\Debug\net8.0\Manegers.csproj.CoreCompileInputs.cache
+C:\Users\Modern Computer\source\repos\ITI.AdvancedC#.Presentation\Manegers\obj\Debug\net8.0\Manegers.csproj.Up2Date
+C:\Users\Modern Computer\source\repos\ITI.AdvancedC#.Presentation\Manegers\obj\Debug\net8.0\Manegers.dll
+C:\Users\Modern Computer\source\repos\ITI.AdvancedC#.Presentation\Manegers\obj\Debug\net8.0\refint\Manegers.dll
+C:\Users\Modern Computer\source\repos\ITI.AdvancedC#.Presentation\Manegers\obj\Debug\net8.0\Manegers.pdb
+C:\Users\Modern Computer\source\repos\ITI.AdvancedC#.Presentation\Manegers\obj\Debug\net8.0\ref\Manegers.dll

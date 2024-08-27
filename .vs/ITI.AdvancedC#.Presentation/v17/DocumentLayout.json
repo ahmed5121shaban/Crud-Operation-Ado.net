@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Modern Computer\\source\\repos\\ITI.AdvancedC#.Presentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{992E7030-777D-4B42-ACAE-9C06C5083609}|Models\\Models.csproj|c:\\users\\modern computer\\source\\repos\\iti.advancedc#.presentation\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992E7030-777D-4B42-ACAE-9C06C5083609}|Models\\Models.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66697A6-F60E-40DF-A6D7-A4B931F9F0AE}|Presentation\\Presentation.csproj|c:\\users\\modern computer\\source\\repos\\iti.advancedc#.presentation\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66697A6-F60E-40DF-A6D7-A4B931F9F0AE}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38185A6-D809-4F15-9F09-6C04063B2DB0}|Manegers\\Manegers.csproj|c:\\users\\modern computer\\source\\repos\\iti.advancedc#.presentation\\manegers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38185A6-D809-4F15-9F09-6C04063B2DB0}|Manegers\\Manegers.csproj|solutionrelative:manegers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38185A6-D809-4F15-9F09-6C04063B2DB0}|Manegers\\Manegers.csproj|c:\\users\\modern computer\\source\\repos\\iti.advancedc#.presentation\\manegers\\ordermaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38185A6-D809-4F15-9F09-6C04063B2DB0}|Manegers\\Manegers.csproj|solutionrelative:manegers\\ordermaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38185A6-D809-4F15-9F09-6C04063B2DB0}|Manegers\\Manegers.csproj|c:\\users\\modern computer\\source\\repos\\iti.advancedc#.presentation\\manegers\\basemaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38185A6-D809-4F15-9F09-6C04063B2DB0}|Manegers\\Manegers.csproj|solutionrelative:manegers\\basemaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38185A6-D809-4F15-9F09-6C04063B2DB0}|Manegers\\Manegers.csproj|c:\\users\\modern computer\\source\\repos\\iti.advancedc#.presentation\\manegers\\customermaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38185A6-D809-4F15-9F09-6C04063B2DB0}|Manegers\\Manegers.csproj|solutionrelative:manegers\\customermaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Modern Computer\\source\\repos\\ITI.AdvancedC#.Presentation\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Modern Computer\\source\\repos\\ITI.AdvancedC#.Presentation\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:58:37.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerManeger.cs",
+              "DocumentMoniker": "C:\\Users\\Modern Computer\\source\\repos\\ITI.AdvancedC#.Presentation\\Manegers\\CustomerManeger.cs",
+              "RelativeDocumentMoniker": "Manegers\\CustomerManeger.cs",
+              "ToolTip": "C:\\Users\\Modern Computer\\source\\repos\\ITI.AdvancedC#.Presentation\\Manegers\\CustomerManeger.cs",
+              "RelativeToolTip": "Manegers\\CustomerManeger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T17:27:18.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderManeger.cs",
+              "DocumentMoniker": "C:\\Users\\Modern Computer\\source\\repos\\ITI.AdvancedC#.Presentation\\Manegers\\OrderManeger.cs",
+              "RelativeDocumentMoniker": "Manegers\\OrderManeger.cs",
+              "ToolTip": "C:\\Users\\Modern Computer\\source\\repos\\ITI.AdvancedC#.Presentation\\Manegers\\OrderManeger.cs",
+              "RelativeToolTip": "Manegers\\OrderManeger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:59:00.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Modern Computer\\source\\repos\\ITI.AdvancedC#.Presentation\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Modern Computer\\source\\repos\\ITI.AdvancedC#.Presentation\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:29:44.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Modern Computer\\source\\repos\\ITI.AdvancedC#.Presentation\\Manegers\\DataBaseHelper.cs",
+              "RelativeDocumentMoniker": "Manegers\\DataBaseHelper.cs",
+              "ToolTip": "C:\\Users\\Modern Computer\\source\\repos\\ITI.AdvancedC#.Presentation\\Manegers\\DataBaseHelper.cs",
+              "RelativeToolTip": "Manegers\\DataBaseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:33:40.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseManeger.cs",
+              "DocumentMoniker": "C:\\Users\\Modern Computer\\source\\repos\\ITI.AdvancedC#.Presentation\\Manegers\\BaseManeger.cs",
+              "RelativeDocumentMoniker": "Manegers\\BaseManeger.cs",
+              "ToolTip": "C:\\Users\\Modern Computer\\source\\repos\\ITI.AdvancedC#.Presentation\\Manegers\\BaseManeger.cs",
+              "RelativeToolTip": "Manegers\\BaseManeger.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAgwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:29:24.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
